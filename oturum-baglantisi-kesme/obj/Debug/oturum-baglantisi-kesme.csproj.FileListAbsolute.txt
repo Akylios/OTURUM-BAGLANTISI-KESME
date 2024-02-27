@@ -1,0 +1,7 @@
+C:\Users\nihat.ozkurt\Desktop\oturum-baglantisi-kesme\oturum-baglantisi-kesme\bin\Debug\oturum-baglantisi-kesme.exe.config
+C:\Users\nihat.ozkurt\Desktop\oturum-baglantisi-kesme\oturum-baglantisi-kesme\bin\Debug\oturum-baglantisi-kesme.exe
+C:\Users\nihat.ozkurt\Desktop\oturum-baglantisi-kesme\oturum-baglantisi-kesme\bin\Debug\oturum-baglantisi-kesme.pdb
+C:\Users\nihat.ozkurt\Desktop\oturum-baglantisi-kesme\oturum-baglantisi-kesme\obj\Debug\oturum-baglantisi-kesme.csproj.AssemblyReference.cache
+C:\Users\nihat.ozkurt\Desktop\oturum-baglantisi-kesme\oturum-baglantisi-kesme\obj\Debug\oturum-baglantisi-kesme.csproj.CoreCompileInputs.cache
+C:\Users\nihat.ozkurt\Desktop\oturum-baglantisi-kesme\oturum-baglantisi-kesme\obj\Debug\oturum-baglantisi-kesme.exe
+C:\Users\nihat.ozkurt\Desktop\oturum-baglantisi-kesme\oturum-baglantisi-kesme\obj\Debug\oturum-baglantisi-kesme.pdb
